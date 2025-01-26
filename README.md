@@ -1,15 +1,15 @@
 # Data Visualization: Empowering Business with Effective Insights
 
 ## Project Overview
-This project focuses on empowering the CEO and CMO of a retail business with actionable insights by leveraging data visualization techniques. The visuals created aim to address key business questions, providing clarity on revenue trends, customer behavior, and regional demand. Using tools like Tableau and Power BI, the project translates raw data into meaningful insights to drive business decisions.
+This project focuses on empowering the CEO and CMO of a retail business with actionable insights by leveraging data visualization techniques. The visuals created aim to address key business questions, providing clarity on revenue trends, customer behavior, and regional demand. Using Power BI, the project translates raw data into meaningful insights to drive business decisions.
 
----
+-
 
 ## Data File
 
 - **Online Retail Data Set.xlsx**: The dataset used for analysis
 
----
+-
 
 ## Key Objectives
 
@@ -29,7 +29,7 @@ This project focuses on empowering the CEO and CMO of a retail business with act
    - Analyze demand by country (excluding the United Kingdom) to identify regions with the highest product demand.
    - Present all data in a single visual for quick insights.
 
----
+-
 
 ## Methodology
 
@@ -38,7 +38,7 @@ Prior to visualization, the dataset was cleaned using the following checks:
 1. **Quantity Validation**: Ensure quantities are not less than 1. Entries with negative quantities (returns) are excluded.
 2. **Unit Price Validation**: Remove entries where unit price is below $0 to eliminate erroneous data.
 
-This was achieved through conditional formulas and data transformation techniques available in Tableau and Power BI.
+This was achieved through conditional formulas and data transformation techniques available in Power BI.
 
 ### Visualization Development
 - Each visualization corresponds to a specific business question and is placed on a separate tab for easy navigation.
