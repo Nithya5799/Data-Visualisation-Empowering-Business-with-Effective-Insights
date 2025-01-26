@@ -3,13 +3,9 @@
 ## Project Overview
 This project focuses on empowering the CEO and CMO of a retail business with actionable insights by leveraging data visualization techniques. The visuals created aim to address key business questions, providing clarity on revenue trends, customer behavior, and regional demand. Using Power BI, the project translates raw data into meaningful insights to drive business decisions.
 
--
-
 ## Data File
 
 - **Online Retail Data Set.xlsx**: The dataset used for analysis
-
--
 
 ## Key Objectives
 
@@ -28,8 +24,6 @@ This project focuses on empowering the CEO and CMO of a retail business with act
 4. **Regional Demand Analysis**
    - Analyze demand by country (excluding the United Kingdom) to identify regions with the highest product demand.
    - Present all data in a single visual for quick insights.
-
--
 
 ## Methodology
 
@@ -52,10 +46,7 @@ This was achieved through conditional formulas and data transformation technique
 - **Power BI**: For building detailed visuals with data transformation capabilities.
 - **Microsoft Excel**: For initial exploration and verification of raw data.
 
----
-
 ## Key Insights Delivered
 - **Seasonal Trends in Revenue**: Helped forecast revenue patterns for the upcoming year.
 - **Top Countries and Customers**: Identified high-value regions and customers to prioritize retention and growth strategies.
 - **Regional Demand Analysis**: Pinpointed new markets for expansion opportunities.
-
